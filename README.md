@@ -1,12 +1,22 @@
- <h1> Bem-Vindo! 👋 </h1>
+ <h1> Welcome! 👋 </h1>
  <br>
- <h2> Sou Luís Felipe Torres e sob a alias de @Caue113 na internet
+ <h2> Hi! I'm Luís Felipe Torres under the alias of @Caue113 in the internet </h2>
  <br>
+ <br> I'm a Game Dev. studend aiming to create entertainment and gamification in near future
+ <br> 
+ <br> Currently I am/do:
  <br>
+ <ul>
+  <li> Studying Digital Game Development at UNIUBE </li>
+  <li> Studying System Development at SENAI </li>
+  <li> A begginer in Game Design, Programming, Art and Illustration </li>
+ </ul>
+ <br>
+ <br> Some of my knowledges
  
- <br>Cursando Desenvolvimento em Jogos Digitais na Uniube
- <br>Cursando Desenvolvimento de Sistemas no SENAI
- <br>I’m looking to collaborate on ...
+ 
+ 
+ I’m looking to collaborate on ...
  <br>How to reach me ...
 
 <!---
