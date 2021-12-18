@@ -19,7 +19,7 @@
  <ul>
   <li> Basic HTML and CSS </li>
   <li> Basic Javascript </li>
-  <li> Basic Lua (mainly in Roblox engine) </li>
+  <li> Basic Lua (mostly in Roblox engine) </li>
  </ul>
  <stuff>
  <br>
