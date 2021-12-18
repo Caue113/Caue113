@@ -16,6 +16,11 @@
  </ul>
  <br>
  Some of my knowledges extends to:
+ <ul>
+  <li> Basic HTML and CSS </li>
+  <li> Basic Javascript </li>
+  <li> Basic Lua (mainly in Roblox engine) </li>
+ </ul>
  <stuff>
  <br>
  Concepts I'm interested in learning:
