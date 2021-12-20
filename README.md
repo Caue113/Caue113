@@ -1,4 +1,9 @@
- <h1> Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> </h1>
+ <h1> Welcome! 
+ <a href="www.google.com">
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> 
+ <a/>
+ </h1>
+ 
  <br>
  <h2> Hi! I'm Luís Felipe Torres </h2>
  <br>
