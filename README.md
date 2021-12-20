@@ -1,5 +1,5 @@
  <h1> Welcome! 
- <a href="www.google.com">
+ <a href="https://google.com">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> 
  <a/>
  </h1>
