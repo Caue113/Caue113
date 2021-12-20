@@ -1,4 +1,4 @@
- <h1> Welcome! 👋 </h1>
+ <h1> Welcome! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> </h1>
  <br>
  <h2> Hi! I'm Luís Felipe Torres </h2>
  <br>
