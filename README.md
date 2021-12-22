@@ -27,16 +27,19 @@
   <li> 🔰 Basic Lua (mostly in Roblox engine) </li>
  </ul>
  <br>
+ 
  Concepts I'm interested in learning near future:
  <ul>
   <li> User Interface </li>
   <li> Artificial Intelligence </li>
   <li> Webpage Development </li>
  </ul>
-  <br/>
-  <br/>
-  
-  Thanks for passing by, hope we have a wonderful day! 
+ <!--A razão da img estar aqui é devido ao responsivo do pc alinhando com o final assim  -->
+ <img alt="Megaman and Zero approves" align="right" width="45%" src="https://github.com/Caue113/General-Media/blob/main/Gifs/megaman_zero_approves.gif">
+ <br/>
+ <br/>
+ 
+ <p align="center"> Thanks for passing by, hope we have a wonderful day! </p>
   
  <!---
 I’m looking to collaborate on 
