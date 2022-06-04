@@ -1,5 +1,5 @@
  <h1> Welcome! 
- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px"> 
+ <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" style="width:20px"> 
  </h1>
  
  <h3> Hi! I'm Luís Felipe Torres </h3>
