@@ -4,54 +4,52 @@
  
  <h3> Hi! I'm Luís Felipe Torres </h3>
  <br>
- <h3> About Me: </h3>
+ <h3> 😺 A bit about me: </h3>
  <br>
- I'm a Brazilian Game Dev. student aiming to create entertainment and gamification in near future. At the momment, I'm pursuing programming to have a foundation in developing systems and games.
- 
-In general, I like to understand other skills in my area mainly to form opinion, connect and combine different concepts to get a grip of the creative and production process of games.
+ I'm a Brazilian System Developer, aiming at back-end enviroments to create and develop applications, websites and systems.
+ <br>
+ I love cats 😸
+ <br>
+ Also, I aspire to use my skills into game programming in near future, as of now with Unity.
  
  <!--- Add gif personalizado com align = direita
  <img alt="Coffee_gif" src="htt://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="gif">
  --->
  <br> 
- <br>
  
- <h2 align= "center"> 🔎 MAIN FOCUS AT THE MOMMENT 🔎 </h2>
- <h3 align= "center"> Studying: Unity Engine </h3>
- <p align= "center">
- <img alt="Unity Logo" src="https://logos-download.com/wp-content/uploads/2019/11/Unity_Web_Player_Logo.png" width ="45%">
- </p>
  
- <br>
- 
- <h3> Currently I am/do: </h3>
- <br>
+ <h3> 🐱‍💻 Skillsets: </h3>
  <ul>
-  <li> 📖 Studying Digital Game Development at UNIUBE (Bachelor Degree) </li>
-  <li> 📖 Studying System Development at SENAI (Technical Degree) </li>
-  <li> 🔰 A begginer in Programming, Game Design, Illustration </li>
+  <li> C# </li>
+  <li> HTML and CSS </li>
+  <li> Javascript & Node </li>
+  <li> mySql </li>
+  <li> Lua </li>
  </ul>
  <br>
  
- <h3> Some of my knowledges extends to: </h3>
- <ul>
-  <li> C# (oriented for Unity, soon for dev. systems) </li>
-  <li> 🔰 HTML and CSS </li>
-  <li> 🔰 Javascript </li>
-  <li> 🔰 Lua </li>
- </ul>
- <br>
+ <div align="right">
+ <h3> 📣 Contact me over on... </h3>
+ <a href="https://www.linkedin.com/in/luisftsat/">
+  <img alt="linkedin" src="https://github.com/Caue113/General-Media/blob/main/Images/linkedin-logo-512.png" width="5%">
+ </a>
+ <a href="https://twitter.com/Caue113_">
+  <img alt="twitter" src="https://github.com/Caue113/General-Media/blob/main/Images/twitter-logo-512.png" width="5%">
+ </a>
+ <a href="https://caue113.itch.io/">
+  <img alt="itch.io" src="https://github.com/Caue113/General-Media/blob/main/Images/Itchio-logo.png" width="5%">
+ </a>
+ </div>
  
- <h3> Concepts I'm interested in my learning journey on future: </h3>
- <ul>
-  <li> Webpage Development </li>
- </ul>
+ <br>
+ <br> 
+ 
  <!--A razão da img estar aqui é devido ao responsivo do pc alinhando com o final assim  -->
  <img alt="Megaman and Zero approves" align="right" width="45%" src="https://github.com/Caue113/General-Media/blob/main/Gifs/megaman_zero_approves.gif">
  <br/>
  <br/>
  
- <p align="center"> Thanks for passing by, hope we have a wonderful day! </p>
+ <p align="center"> Thanks for passing by, hope you have a wonderful day! </p>
   
  <!---
 I’m looking to collaborate on 
